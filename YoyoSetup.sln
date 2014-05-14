@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Yoyo", "YoyoSetup\YoyoSetup.vdproj", "{63C3B837-CF82-4F0E-A690-00772186340B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C3B837-CF82-4F0E-A690-00772186340B}.Debug|Default.ActiveCfg = Debug
+		{63C3B837-CF82-4F0E-A690-00772186340B}.Debug|Default.Build.0 = Debug
+		{63C3B837-CF82-4F0E-A690-00772186340B}.Release|Default.ActiveCfg = Release
+		{63C3B837-CF82-4F0E-A690-00772186340B}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
